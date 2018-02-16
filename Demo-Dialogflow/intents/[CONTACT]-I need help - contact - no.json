@@ -1,0 +1,46 @@
+{
+  "id": "2215ae06-390f-467b-8dbc-871606ff6b1d",
+  "parentId": "6d146b16-3534-4479-b859-85f17d139715",
+  "rootParentId": "e4f83d1d-3771-4659-b789-22c381c0cbe6",
+  "name": "[CONTACT]-I need help - contact - no",
+  "auto": true,
+  "contexts": [
+    "CONTACT-Ineedhelp-contact-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "CONTACT-Ineedhelp.CONTACT-Ineedhelp-custom.CONTACT-Ineedhelp-contact-no",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "nl",
+          "speech": []
+        },
+        {
+          "type": 0,
+          "platform": "skype",
+          "lang": "en",
+          "speech": "Have a good day!"
+        },
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "Have a good day!"
+        }
+      ],
+      "defaultResponsePlatforms": {
+        "skype": false
+      },
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1508189124745,
+  "fallbackIntent": false,
+  "events": []
+}

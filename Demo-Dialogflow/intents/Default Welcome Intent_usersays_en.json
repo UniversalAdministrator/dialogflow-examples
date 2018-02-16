@@ -1,0 +1,102 @@
+[
+  {
+    "id": "1f64b4bc-51fb-4356-a3ec-7a151313df67",
+    "data": [
+      {
+        "text": "Hoi",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "a3b0d13a-43a3-461e-a9c0-7214ab6fd296",
+    "data": [
+      {
+        "text": "Hi ",
+        "userDefined": false
+      },
+      {
+        "text": "Petra",
+        "alias": "teammember",
+        "meta": "@teammember",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "939902b9-0f67-4942-a187-90935fe9138b",
+    "data": [
+      {
+        "text": "Hey",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "bee3c01b-92d8-4d14-8d37-863a38ab23bb",
+    "data": [
+      {
+        "text": "Hallo",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "bfe0b961-36a4-4716-bee0-d3ec544175a8",
+    "data": [
+      {
+        "text": "Hello",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "5b5acdcc-fc70-41ab-9d31-2e296dbab5e4",
+    "data": [
+      {
+        "text": "Hi",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "f903e268-f157-4a1f-af3b-dbec3705b0a6",
+    "data": [
+      {
+        "text": "Hi ",
+        "userDefined": false
+      },
+      {
+        "text": "Lee",
+        "alias": "teammember",
+        "meta": "@teammember",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "b1d9fc56-a0bb-4b31-9adc-eabe45381edc",
+    "data": [
+      {
+        "text": "Hi there",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  }
+]

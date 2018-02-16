@@ -1,0 +1,49 @@
+[
+  {
+    "value": "Tridios",
+    "synonyms": [
+      "Tridios",
+      "Tridios Bank"
+    ]
+  },
+  {
+    "value": "ING",
+    "synonyms": [
+      "ING"
+    ]
+  },
+  {
+    "value": "ABN",
+    "synonyms": [
+      "ABN",
+      "ABN Amro",
+      "Abn Amro"
+    ]
+  },
+  {
+    "value": "NN",
+    "synonyms": [
+      "NN",
+      "Nationale Nederlanden"
+    ]
+  },
+  {
+    "value": "Achmea",
+    "synonyms": [
+      "Achmea"
+    ]
+  },
+  {
+    "value": "CZ",
+    "synonyms": [
+      "CZ"
+    ]
+  },
+  {
+    "value": "Rabo",
+    "synonyms": [
+      "Rabo",
+      "Rabobank"
+    ]
+  }
+]

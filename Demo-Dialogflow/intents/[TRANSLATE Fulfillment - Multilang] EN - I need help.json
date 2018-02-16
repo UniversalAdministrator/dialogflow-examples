@@ -1,0 +1,32 @@
+{
+  "id": "bc9aad82-2717-487e-a11a-cbdb7096c52c",
+  "name": "[TRANSLATE Fulfillment - Multilang] EN - I need help",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "multilang",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "4cf87792-afba-482d-aa87-f6d37964d635",
+          "required": false,
+          "dataType": "@task",
+          "name": "task",
+          "value": "$task",
+          "isList": false
+        }
+      ],
+      "messages": [],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1518793079,
+  "fallbackIntent": false,
+  "events": []
+}

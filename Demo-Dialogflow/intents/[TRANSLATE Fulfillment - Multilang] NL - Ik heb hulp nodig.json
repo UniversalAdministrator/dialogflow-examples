@@ -1,0 +1,32 @@
+{
+  "id": "f86f8b58-0331-415e-9321-a1056e458314",
+  "name": "[TRANSLATE Fulfillment - Multilang] NL - Ik heb hulp nodig",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "multilang",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "37f98aac-0652-42b0-885d-43fce6f24760",
+          "required": false,
+          "dataType": "@task",
+          "name": "task",
+          "value": "$task",
+          "isList": false
+        }
+      ],
+      "messages": [],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1518793112,
+  "fallbackIntent": false,
+  "events": []
+}

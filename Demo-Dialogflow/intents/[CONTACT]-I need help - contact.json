@@ -1,0 +1,61 @@
+{
+  "id": "6d146b16-3534-4479-b859-85f17d139715",
+  "parentId": "e4f83d1d-3771-4659-b789-22c381c0cbe6",
+  "rootParentId": "e4f83d1d-3771-4659-b789-22c381c0cbe6",
+  "name": "[CONTACT]-I need help - contact",
+  "auto": true,
+  "contexts": [
+    "CONTACT-Ineedhelp-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "CONTACT-Ineedhelp.CONTACT-Ineedhelp-custom",
+      "affectedContexts": [
+        {
+          "name": "CONTACT-Ineedhelp-contact-followup",
+          "parameters": {},
+          "lifespan": 2
+        }
+      ],
+      "parameters": [
+        {
+          "id": "3236a13c-d00d-42ec-8ba3-1f4884710ef9",
+          "required": true,
+          "dataType": "@sys.phone-number",
+          "name": "phone-number",
+          "value": "$phone-number",
+          "prompts": [],
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 2,
+          "platform": "skype",
+          "lang": "en",
+          "title": "",
+          "replies": [
+            "Yes",
+            "No"
+          ]
+        },
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "Thank you! We will call you on $phone-number. Do you need anymore help?"
+        }
+      ],
+      "defaultResponsePlatforms": {
+        "skype": true
+      },
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1508189124811,
+  "fallbackIntent": false,
+  "events": []
+}

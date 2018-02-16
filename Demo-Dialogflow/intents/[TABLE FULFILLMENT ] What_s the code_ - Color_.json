@@ -1,0 +1,59 @@
+{
+  "id": "985c0dba-1fc1-4629-bbbe-16b99d80bb02",
+  "parentId": "d8e4ce3a-f338-4299-9007-5f3bc0756c2e",
+  "rootParentId": "d8e4ce3a-f338-4299-9007-5f3bc0756c2e",
+  "name": "[TABLE FULFILLMENT ] What\u0027s the code? - Color?",
+  "auto": true,
+  "contexts": [
+    "TABLEFULFILLMENTWhatsthecode-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [
+        {
+          "name": "TABLEFULFILLMENTWhatsthecode-custom-followup",
+          "parameters": {},
+          "lifespan": 2
+        }
+      ],
+      "parameters": [
+        {
+          "id": "f60b8b70-5a5d-4e32-a404-ce699f89ad68",
+          "required": true,
+          "dataType": "@color",
+          "name": "color",
+          "value": "$color",
+          "prompts": [
+            {
+              "lang": "en",
+              "value": "What\u0027s the color?"
+            }
+          ],
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "What\u0027s the category?"
+        },
+        {
+          "type": 0,
+          "lang": "nl",
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1518100023,
+  "fallbackIntent": false,
+  "events": []
+}

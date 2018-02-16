@@ -1,0 +1,49 @@
+{
+  "id": "e4f83d1d-3771-4659-b789-22c381c0cbe6",
+  "name": "[CONTACT]-I need help",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [
+        {
+          "name": "CONTACT-Ineedhelp-followup",
+          "parameters": {},
+          "lifespan": 2
+        }
+      ],
+      "parameters": [
+        {
+          "id": "4f2066ae-31cf-4dbb-91dc-9d8213516481",
+          "required": true,
+          "dataType": "@company",
+          "name": "company",
+          "value": "$company",
+          "prompts": [
+            {
+              "lang": "en",
+              "value": "Hi, we\u0027re happy to help. For which company are you working for?"
+            }
+          ],
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "What\u0027s your phone number we can reach you on?"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1517394750,
+  "fallbackIntent": false,
+  "events": []
+}

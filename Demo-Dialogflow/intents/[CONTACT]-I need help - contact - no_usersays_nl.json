@@ -1,0 +1,110 @@
+[
+  {
+    "id": "34b2e38f-59d1-4d0b-a823-19e8606dac28",
+    "data": [
+      {
+        "text": "absoluut niet",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 0
+  },
+  {
+    "id": "3f5ae8dc-0a28-4913-901b-6e9438e5461a",
+    "data": [
+      {
+        "text": "niet echt",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 0
+  },
+  {
+    "id": "537c02ba-8f2d-4bc1-b45a-e0a727065bca",
+    "data": [
+      {
+        "text": "doe dat niet",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "fa064f3a-0563-4e2a-a92a-74e191f51a34",
+    "data": [
+      {
+        "text": "geen interesse",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "9c9fc920-3d8f-44b3-b6eb-bb9f95cf18e1",
+    "data": [
+      {
+        "text": "ik dacht het niet",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "e25a32e4-48d0-41f9-9721-33cee32f24d0",
+    "data": [
+      {
+        "text": "dat wil ik niet",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "7023913f-b2ad-4b1f-958c-981557fef58f",
+    "data": [
+      {
+        "text": "dat vind ik niet",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "9c771026-eb45-418a-b8df-bb4c713b5d35",
+    "data": [
+      {
+        "text": "nee bedankt",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 0
+  },
+  {
+    "id": "696131dd-7dad-4fdd-848a-14b9020becff",
+    "data": [
+      {
+        "text": "nee",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

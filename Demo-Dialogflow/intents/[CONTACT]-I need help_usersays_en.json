@@ -1,0 +1,84 @@
+[
+  {
+    "id": "d84a6cae-5222-490c-a4b5-c23f7336af22",
+    "data": [
+      {
+        "text": "I would like to get in contact with you",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1517394750
+  },
+  {
+    "id": "a9d922cc-c214-419c-9db7-8008ef766b11",
+    "data": [
+      {
+        "text": "I would like to get in touch with Google",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1517394750
+  },
+  {
+    "id": "12651b92-ddce-4d22-bd59-b057695ed55b",
+    "data": [
+      {
+        "text": "I am interested in Google Cloud",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1517394750
+  },
+  {
+    "id": "4d2fc553-b916-4903-b6a5-db91f140c7ae",
+    "data": [
+      {
+        "text": "I need help",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1517394750
+  },
+  {
+    "id": "8bdc9163-9a9e-447b-8155-23d07344ee58",
+    "data": [
+      {
+        "text": "I would like to get in touch with Google Cloud",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1517394750
+  },
+  {
+    "id": "b7750306-f098-49e1-8b2d-c52746f6865d",
+    "data": [
+      {
+        "text": "I work for ",
+        "userDefined": false
+      },
+      {
+        "text": "ING",
+        "alias": "company",
+        "meta": "@company",
+        "userDefined": false
+      },
+      {
+        "text": ", i need help",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1517394750
+  }
+]

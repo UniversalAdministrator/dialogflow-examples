@@ -1,0 +1,32 @@
+[
+  {
+    "id": "04d034ed-de07-41f1-9622-0d1ade5f8dc6",
+    "data": [
+      {
+        "text": "0651536814",
+        "alias": "phone-number",
+        "meta": "@sys.phone-number",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "fd432de8-59d1-498c-b3a2-4361e859cd76",
+    "data": [
+      {
+        "text": "+",
+        "userDefined": false
+      },
+      {
+        "text": "31651536814",
+        "alias": "phone-number",
+        "meta": "@sys.phone-number",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  }
+]

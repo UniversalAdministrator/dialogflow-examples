@@ -1,0 +1,60 @@
+{
+  "id": "892a9031-958c-421c-82cf-9d542e7d5720",
+  "parentId": "985c0dba-1fc1-4629-bbbe-16b99d80bb02",
+  "rootParentId": "d8e4ce3a-f338-4299-9007-5f3bc0756c2e",
+  "name": "[TABLE FULFILLMENT ] What\u0027s the code? - Color? - Category?",
+  "auto": true,
+  "contexts": [
+    "TABLEFULFILLMENTWhatsthecode-custom-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "table-whats-the-code",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "a1c3c54a-0eda-4e53-aa8a-2c16025c1cef",
+          "required": true,
+          "dataType": "@category",
+          "name": "category",
+          "value": "$category",
+          "prompts": [
+            {
+              "lang": "en",
+              "value": "What\u0027s the Category number?"
+            }
+          ],
+          "isList": false
+        },
+        {
+          "id": "4ca85fbf-c1fb-4b3e-9a8b-7a9dcc39dfc0",
+          "required": true,
+          "dataType": "@color",
+          "name": "color",
+          "value": "#TABLEFULFILLMENTWhatsthecode-custom-followup.color"
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": []
+        },
+        {
+          "type": 0,
+          "lang": "nl",
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": true,
+  "lastUpdate": 1518102180,
+  "fallbackIntent": false,
+  "events": []
+}

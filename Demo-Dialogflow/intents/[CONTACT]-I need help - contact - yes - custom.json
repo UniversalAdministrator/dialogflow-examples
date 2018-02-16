@@ -1,0 +1,38 @@
+{
+  "id": "7655b94f-75dc-425b-a270-45483935c904",
+  "parentId": "9102292b-3aad-441f-abf1-14d614c59d46",
+  "rootParentId": "e4f83d1d-3771-4659-b789-22c381c0cbe6",
+  "name": "[CONTACT]-I need help - contact - yes - custom",
+  "auto": true,
+  "contexts": [
+    "CONTACT-Ineedhelp-contact-yes-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "CONTACT-Ineedhelp.CONTACT-Ineedhelp-custom.CONTACT-Ineedhelp-contact-yes.CONTACT-Ineedhelp-contact-yes-custom",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "nl",
+          "speech": []
+        },
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "Ok. We will get back to you soon."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1508189124811,
+  "fallbackIntent": false,
+  "events": []
+}

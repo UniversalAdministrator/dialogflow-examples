@@ -1,0 +1,32 @@
+[
+  {
+    "action": "smalltalk.agent.acquaintance",
+    "customAnswers": [
+      "I\u0027m a demo bot."
+    ]
+  },
+  {
+    "action": "smalltalk.agent.annoying",
+    "customAnswers": [
+      "I\u0027m sorry."
+    ]
+  },
+  {
+    "action": "smalltalk.agent.beautiful",
+    "customAnswers": [
+      "Thank you."
+    ]
+  },
+  {
+    "action": "smalltalk.dialog.hold_on",
+    "customAnswers": [
+      "Sure."
+    ]
+  },
+  {
+    "action": "smalltalk.dialog.sorry",
+    "customAnswers": [
+      "No problem."
+    ]
+  }
+]

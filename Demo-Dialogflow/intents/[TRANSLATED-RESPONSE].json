@@ -1,0 +1,28 @@
+{
+  "id": "f57fe14f-ea87-4160-b142-274f2bf2c5a0",
+  "name": "[TRANSLATED-RESPONSE]",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "Let me help you! - Laat mij jou helpen!"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1518793235,
+  "fallbackIntent": false,
+  "events": []
+}

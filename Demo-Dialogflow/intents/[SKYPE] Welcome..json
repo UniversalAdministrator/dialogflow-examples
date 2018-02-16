@@ -1,0 +1,32 @@
+{
+  "id": "d14aa36e-bfa9-4cd2-adfe-c8c22f16f2a3",
+  "name": "[SKYPE] Welcome.",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "Hi, I\u0027m the cloudtricks.eu chatbot. Ask me for help."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1517852561,
+  "fallbackIntent": false,
+  "events": [
+    {
+      "name": "SKYPE_WELCOME"
+    }
+  ]
+}
